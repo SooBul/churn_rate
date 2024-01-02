@@ -1,0 +1,3 @@
+Tỷ lệ rời bỏ là thước đo tiếp thị mô tả số lượng khách hàng rời khỏi doanh nghiệp trong một khoảng thời gian cụ thể. Mỗi người dùng được chỉ định một giá trị dự đoán để ước tính trạng thái rời bỏ của họ tại bất kỳ thời điểm nào. Giá trị này dựa trên:
+
+Thông tin nhân khẩu học của người dùng Hành vi duyệt web Dữ liệu lịch sử mua hàng cùng với các thông tin khác Nó là yếu tố trong những dự đoán độc đáo và độc quyền của chúng tôi về thời gian người dùng sẽ vẫn là khách hàng. Điểm này được cập nhật hàng ngày cho tất cả người dùng có tối thiểu một chuyển đổi. Các giá trị được gán nằm trong khoảng từ 1 đến 5.
